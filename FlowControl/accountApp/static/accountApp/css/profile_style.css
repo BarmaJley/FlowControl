@@ -62,7 +62,8 @@
 .user_row{
 	background-color: rgba(8, 8, 8, 0.55);
 	padding-top: 30px;
-	margin-left: 20px;
+	margin-left: 0;
+	margin-right: 0;
 	height: 100%
 }
 .profile_img{
